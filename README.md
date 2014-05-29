@@ -5,6 +5,8 @@ The code repository for interface technology
 
 Current Version: V1.2.0
 
+[Summary Report](https://github.com/dejavu1988/CO2Alert/blob/master/report/FinalReport_CO2EmissionAlert.pdf)
+
 ## For Developers
 
 Our repository is on GitHub: https://github.com/mrr7rhq/CO2Alert
